@@ -165,7 +165,8 @@ PRODUCT_BOOT_JARS += \
 
 # tri-state-key
 PRODUCT_PACKAGES += \
-    tri-state-key_daemon
+    tri-state-key_daemon \
+    TriStateHandler 
 
 # Update engine
 PRODUCT_PACKAGES += \
