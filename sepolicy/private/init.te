@@ -6,4 +6,5 @@ allow init {
     sysfs_graphics
 }:file { open read setattr };
 
-permissive init;
+# Allow init to write to otg_switch
+allow init sysfs_usb_supply:file w_file_perms;
