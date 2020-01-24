@@ -35,19 +35,7 @@
     <string name="tile_panel_mode">パネルモード</string>
     <string name="tile_hbm_mode">高輝度モード</string>
     <string name="tile_dc_mode">DC 調光</string>
-    <!-- Notification slider -->
-    <string name="notification_slider_category_title">通知スライダー</string>
-    <string name="notification_slider_selection_dialog_title">アクション</string>
-    <string name="notification_slider_top_position">上部</string>
-    <string name="notification_slider_middle_position">中央</string>
-    <string name="notification_slider_bottom_position">下部</string>
-    <string name="notification_slider_mode_total_silence">サイレント</string>
-    <string name="notification_slider_mode_alarms_only">アラームのみ</string>
-    <string name="notification_slider_mode_priority_only">優先通知のみ</string>
-    <string name="notification_slider_mode_silent">サイレント</string>
-    <string name="notification_slider_mode_vibrate">振動</string>
-    <string name="notification_slider_mode_none">標準</string>
-    <string name="buttons_dashboard_summary">Alert Slider の設定</string>
+    
     <!-- Vibration control -->
     <string name="category_vibrator">振動</string>
     <string name="vib_strength_title_head">システムの振動</string>
