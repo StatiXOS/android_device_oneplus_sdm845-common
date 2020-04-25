@@ -141,10 +141,6 @@ PRODUCT_PACKAGES += \
     vendor.nxp.nxpese@1.0:64 \
     vendor.nxp.nxpnfc@1.0:64
 
-# Power
-PRODUCT_PACKAGES += \
-    power.qcom:64
-
 # Remove unwanted packages
 PRODUCT_PACKAGES += \
     RemovePackages
