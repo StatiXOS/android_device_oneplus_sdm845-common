@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ee55123e_31b7a976",
+        "filename": "lights/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T21:45:55Z",
+      "side": 1,
+      "message": "LOCAL_VENDOR_OVERLAY_MODULE :\u003d true",
+      "revId": "d4db5f1374fb11479b0d5f87ad149cb7a72aa9d0",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "25848bcd_c9b7859e",
+        "filename": "lights/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T21:45:55Z",
+      "side": 1,
+      "message": "same",
+      "revId": "d4db5f1374fb11479b0d5f87ad149cb7a72aa9d0",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f0ac8a25_321f969c",
+        "filename": "overlay/packages/apps/overlays/OnePlusIconShapeCircleOverlay/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T21:45:55Z",
+      "side": 1,
+      "message": "same",
+      "revId": "d4db5f1374fb11479b0d5f87ad149cb7a72aa9d0",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6",
+      "unresolved": true
+    }
+  ]
+}
