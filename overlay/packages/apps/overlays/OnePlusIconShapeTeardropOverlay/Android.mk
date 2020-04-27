@@ -9,6 +9,6 @@ LOCAL_CERTIFICATE := platform
 LOCAL_PACKAGE_NAME := OnePlusIconShapeTeardropOverlay
 LOCAL_SDK_VERSION := current
 
-LOCAL_MODULE_PATH := $(TARGET_OUT_PRODUCT)/vendor_overlay/$(PRODUCT_TARGET_VNDK_VERSION)/overlay/oneplus_shape_teardrop
+LOCAL_MODULE_PATH := $(TARGET_COPY_OUT_VENDOR_OVERLAY)/overlay/oneplus_shape_teardrop
 
 include $(BUILD_PACKAGE)
