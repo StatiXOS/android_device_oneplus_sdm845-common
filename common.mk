@@ -34,7 +34,8 @@ PRODUCT_PACKAGES += \
     OnePlusIconShapeRoundedRectOverlay \
     OnePlusIconShapeSquareOverlay \
     OnePlusIconShapeSquircleOverlay \
-    OnePlusIconShapeTeardropOverlay
+    OnePlusIconShapeTeardropOverlay \
+    NoCutoutOverlay
 
 # Properties
 -include $(LOCAL_PATH)/system_prop.mk
