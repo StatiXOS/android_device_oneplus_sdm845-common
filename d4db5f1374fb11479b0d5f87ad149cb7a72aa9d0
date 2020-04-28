@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "aac75200_1f3ebe53",
+        "filename": "lights/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2020-04-28T03:35:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ee55123e_31b7a976",
+      "revId": "d4db5f1374fb11479b0d5f87ad149cb7a72aa9d0",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "25848bcd_c9b7859e",
         "filename": "lights/Android.mk",
         "patchSetId": 1
@@ -33,6 +51,24 @@
       "revId": "d4db5f1374fb11479b0d5f87ad149cb7a72aa9d0",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a13cf36f_045fd863",
+        "filename": "lights/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2020-04-28T03:35:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "25848bcd_c9b7859e",
+      "revId": "d4db5f1374fb11479b0d5f87ad149cb7a72aa9d0",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6",
+      "unresolved": false
     },
     {
       "key": {
