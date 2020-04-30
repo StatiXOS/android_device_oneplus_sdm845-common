@@ -13,6 +13,7 @@ on boot
     write /sys/class/power_supply/usb/otg_switch 1
     chmod 0660 /sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/dimlayer_bl_en
     chown system system /sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/dimlayer_bl_en
+    echo "1" > /sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/native_display_wide_color_mode
 
 on charger
     write /sys/class/backlight/panel0-backlight/brightness 150
