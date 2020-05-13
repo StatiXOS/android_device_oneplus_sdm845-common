@@ -13,5 +13,10 @@
     "repository"  : "StatiXOS/android_device_oneplus_common",
     "target_path" : "device/oneplus/common",
     "branch" : "10"
+  },
+  {
+    "repository"  : "LineageOS/android_packages_resources_devicesettings",
+    "target_path" : "packages/resources/devicesettings",
+    "branch" : "lineage-17.1"
   }
 ]
