@@ -69,19 +69,6 @@
     <string name="touchscreen_gesture_action_next_track">Odtwórz następny utwór</string>
     <string name="touchscreen_gesture_action_volume_down">Mniejsza głośność multimediów</string>
     <string name="touchscreen_gesture_action_volume_up">Zwiększ głośność multimediów</string>
-    <!-- Notification slider -->
-    <string name="notification_slider_category_title">Suwak powiadomień</string>
-    <string name="notification_slider_selection_dialog_title">Akcja</string>
-    <string name="notification_slider_top_position">Górna pozycja</string>
-    <string name="notification_slider_middle_position">Środkowa pozycja</string>
-    <string name="notification_slider_bottom_position">Dolna pozycja</string>
-    <string name="notification_slider_mode_total_silence">Całkowite wyciszenie</string>
-    <string name="notification_slider_mode_alarms_only">Tylko alarmy</string>
-    <string name="notification_slider_mode_priority_only">Tylko priorytetowe</string>
-    <string name="notification_slider_mode_silent">Wyciszony</string>
-    <string name="notification_slider_mode_vibrate">Wibracje</string>
-    <string name="notification_slider_mode_none">Normalny</string>
-    <string name="buttons_dashboard_summary">Ustawienia suwaka powiadomień</string>
     <!-- Vibration control -->
     <string name="category_vibrator">Wibracje</string>
     <string name="vib_strength_title_head">Siła systemu</string>

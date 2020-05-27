@@ -69,19 +69,6 @@
     <string name="touchscreen_gesture_action_next_track">Включить следующий трек</string>
     <string name="touchscreen_gesture_action_volume_down">Уменьшить громкость мультимедиа</string>
     <string name="touchscreen_gesture_action_volume_up">Увеличить громкость мультимедиа</string>
-    <!-- Notification slider -->
-    <string name="notification_slider_category_title">Слайдер уведомлений</string>
-    <string name="notification_slider_selection_dialog_title">Действие</string>
-    <string name="notification_slider_top_position">Верхнее положение</string>
-    <string name="notification_slider_middle_position">Среднее положение</string>
-    <string name="notification_slider_bottom_position">Нижнее положение</string>
-    <string name="notification_slider_mode_total_silence">Полная тишина</string>
-    <string name="notification_slider_mode_alarms_only">Только будильник</string>
-    <string name="notification_slider_mode_priority_only">Только важные</string>
-    <string name="notification_slider_mode_silent">Без звука</string>
-    <string name="notification_slider_mode_vibrate">Вибрация</string>
-    <string name="notification_slider_mode_none">Нормальный</string>
-    <string name="buttons_dashboard_summary">Параметры слайдера уведомлений</string>
     <!-- Vibration control -->
     <string name="category_vibrator">Вибрация</string>
     <string name="vib_strength_title_head">Общая</string>
