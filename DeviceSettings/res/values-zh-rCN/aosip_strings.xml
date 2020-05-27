@@ -69,19 +69,6 @@
     <string name="touchscreen_gesture_action_next_track">换到下一首歌</string>
     <string name="touchscreen_gesture_action_volume_down">降低媒体音量</string>
     <string name="touchscreen_gesture_action_volume_up">提高媒体音量</string>
-    <!-- Notification slider -->
-    <string name="notification_slider_category_title">通知滑块</string>
-    <string name="notification_slider_selection_dialog_title">操作</string>
-    <string name="notification_slider_top_position">顶部位置</string>
-    <string name="notification_slider_middle_position">中间位置</string>
-    <string name="notification_slider_bottom_position">底部位置</string>
-    <string name="notification_slider_mode_total_silence">完全静音</string>
-    <string name="notification_slider_mode_alarms_only">仅限闹钟</string>
-    <string name="notification_slider_mode_priority_only">仅限优先打扰</string>
-    <string name="notification_slider_mode_silent">静音</string>
-    <string name="notification_slider_mode_vibrate">振动</string>
-    <string name="notification_slider_mode_none">正常</string>
-    <string name="buttons_dashboard_summary">三段式开关设置</string>
     <!-- Vibration control -->
     <string name="category_vibrator">振动</string>
     <string name="vib_strength_title_head">系统强度</string>

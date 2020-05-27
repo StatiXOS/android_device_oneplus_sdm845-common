@@ -69,19 +69,6 @@
     <string name="touchscreen_gesture_action_next_track">Reproducir la siguiente canción</string>
     <string name="touchscreen_gesture_action_volume_down">Reducir volumen de multimedia</string>
     <string name="touchscreen_gesture_action_volume_up">Incrementa el volumen multimedia</string>
-    <!-- Notification slider -->
-    <string name="notification_slider_category_title">Control deslizante de notificaciones</string>
-    <string name="notification_slider_selection_dialog_title">Acción</string>
-    <string name="notification_slider_top_position">Posición superior</string>
-    <string name="notification_slider_middle_position">Posición central</string>
-    <string name="notification_slider_bottom_position">Posición inferior</string>
-    <string name="notification_slider_mode_total_silence">Silencio total</string>
-    <string name="notification_slider_mode_alarms_only">Solo alarmas</string>
-    <string name="notification_slider_mode_priority_only">Solo prioridad</string>
-    <string name="notification_slider_mode_silent">Silencioso</string>
-    <string name="notification_slider_mode_vibrate">Vibrar</string>
-    <string name="notification_slider_mode_none">Normal</string>
-    <string name="buttons_dashboard_summary">Ajustes de la alerta deslizante</string>
     <!-- Vibration control -->
     <string name="category_vibrator">Vibrador</string>
     <string name="vib_strength_title_head">Intensidad del sistema</string>
