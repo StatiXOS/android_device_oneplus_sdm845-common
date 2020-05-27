@@ -69,19 +69,6 @@
     <string name="touchscreen_gesture_action_next_track">Play the next music track</string>
     <string name="touchscreen_gesture_action_volume_down">Lower media volume</string>
     <string name="touchscreen_gesture_action_volume_up">Raise media volume</string>
-    <!-- Notification slider -->
-    <string name="notification_slider_category_title">ممرر الإشعارات</string>
-    <string name="notification_slider_selection_dialog_title">الإجراء</string>
-    <string name="notification_slider_top_position">الموضع العلوي</string>
-    <string name="notification_slider_middle_position">الموضع الوسطي</string>
-    <string name="notification_slider_bottom_position">الموضع السفلي</string>
-    <string name="notification_slider_mode_total_silence">كتم الصوت تماماً</string>
-    <string name="notification_slider_mode_alarms_only">التنبيهات فقط</string>
-    <string name="notification_slider_mode_priority_only">الأولوية فقط</string>
-    <string name="notification_slider_mode_silent">صامت</string>
-    <string name="notification_slider_mode_vibrate">إهتزاز</string>
-    <string name="notification_slider_mode_none">عادي</string>
-    <string name="buttons_dashboard_summary">إعدادات مزلاق التنبيه</string>
     <!-- Vibration control -->
     <string name="category_vibrator">الهزاز</string>
     <string name="vib_strength_title_head">قوة النظام</string>
