@@ -15,6 +15,7 @@ on init
     mount none /system/product/overlay/EmptyOverlay/EmptyOverlay.apk /vendor/overlay/oneplus_shape_teardrop/OnePlusIconShapeTeardropOverlay.apk bind
     mount none /system/product/overlay/EmptyOverlay/EmptyOverlay.apk /vendor/overlay/oneplus_shape_square/OnePlusIconShapeSquareOverlay.apk bind
     mount none /system/product/overlay/EmptyOverlay/EmptyOverlay.apk /vendor/overlay/oneplus_shape_roundedrect/OnePlusIconShapeRoundedRectOverlay.apk bind
+    mount none /system/product/overlay/EmptyOverlay/EmptyOverlay.apk /vendor/overlay/DisplayCutoutNoCutout/NoCutoutOverlay.apk bind
 
 on boot
     # OTG
