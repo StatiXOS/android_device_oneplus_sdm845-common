@@ -81,6 +81,7 @@ USE_XML_AUDIO_POLICY_CONF := 1
 
 # Charger
 BOARD_CHARGER_DISABLE_INIT_BLANK := true
+HEALTHD_USE_BATTERY_INFO := true
 
 # Dex
 ifeq ($(HOST_OS),linux)
