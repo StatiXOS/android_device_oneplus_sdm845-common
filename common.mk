@@ -41,7 +41,7 @@ PRODUCT_TARGET_VNDK_VERSION := 29
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.telephony.ims.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/android.hardware.telephony.ims.xml \
     frameworks/native/data/etc/handheld_core_hardware.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/handheld_core_hardware.xml
-
+    device/oneplus/sdm845-common/rootdir/etc/ueventd.qcom.rc:$(TARGET_ROOT_OUT)/ueventd.qcom.rc
 # A/B
 AB_OTA_UPDATER := true
 
