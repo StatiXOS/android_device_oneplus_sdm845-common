@@ -124,3 +124,8 @@ lib64/libwfduibcsrc.so
 lib64/libwfduibcsrcinterface.so
 -priv-app/WfdService/WfdService.apk
 product/lib/vendor.qti.hardware.wifidisplaysession@1.0.so
+
+# OP CAMERA
+-priv-app/OnePlusCamera/OnePlusCamera.apk
+-priv-app/OnePlusCameraService/OnePlusCameraService.apk
+-priv-app/OnePlusGallery/OnePlusGallery.apk
