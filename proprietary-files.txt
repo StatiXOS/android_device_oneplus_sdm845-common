@@ -18,19 +18,6 @@ product/lib64/libsdm-disp-apis.qti.so
 product/lib64/vendor.display.color@1.0.so
 
 # DPM
-framework/tcmclient.jar
-product/bin/dpmd
-product/etc/dpm/dpm.conf
-product/etc/init/dpmd.rc
-product/etc/permissions/com.qti.dpmframework.xml
-product/etc/permissions/dpmapi.xml
-product/framework/com.qti.dpmframework.jar
-product/framework/dpmapi.jar
-product/lib/com.qualcomm.qti.dpm.api@1.0.so
-product/lib/libdpmctmgr.so
-product/lib/libdpmfdmgr.so
-product/lib/libdpmframework.so
-product/lib/libdpmtcm.so
 product/lib64/com.qualcomm.qti.dpm.api@1.0.so
 product/lib64/libdpmctmgr.so
 product/lib64/libdpmfdmgr.so
@@ -40,16 +27,6 @@ product/lib64/libdpmtcm.so
 # HotwordEnrollment
 -priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk
 -priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk
-
-# IMS
-lib64/libdiag_system.so
-product/lib64/libimscamera_jni.so
-product/lib64/libimsmedia_jni.so
-product/lib64/lib-imsvideocodec.so
-product/lib64/lib-imsvtextutils.so
-product/lib64/lib-imsvt.so
-product/lib64/lib-imsvtutils.so
-product/lib64/vendor.qti.imsrtpservice@2.0.so
 
 # Media
 lib/libFileMux.so
@@ -67,23 +44,14 @@ framework/com.nxp.nfc.jar|41d92d0b7fdc3d50cd6ea4be8664614aa9d41823
 lib64/libnxpnfc_nci_jni.so
 lib64/libnxpnfc-nci.so|e31ab7b2b282c3b81fd13ab1b40b3cc8d90d8b5b
 
-# Telephony - from LA.UM.9.1.r1-07000-SM8150.0
-system_ext/framework/qti-telephony-common.jar|695214c1294dc9a79ee48387140c9907203300d7
--system_ext/priv-app/ims/ims.apk|d2e1bb9b56805e08f6fb35bee8c1d59035904e27
-
 # Telephony
 etc/permissions/privapp-permissions-qti.xml
 etc/permissions/qti_libpermissions.xml
 etc/permissions/qti_permissions.xml
 etc/sysconfig/qti_whitelist.xml
 -framework/qcnvitems.jar
--product/app/QtiTelephonyService/QtiTelephonyService.apk
-product/etc/permissions/qcrilhook.xml
 product/etc/permissions/telephony_product_privapp-permissions-qti.xml
-product/etc/permissions/telephonyservice.xml
-product/framework/qcrilhook.jar
 product/framework/QtiTelephonyServicelibrary.jar
--product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 
 # WiFi Display
 bin/wfdservice
@@ -91,8 +59,6 @@ etc/init/wfdservice.rc
 etc/wfdconfigsink.xml
 -framework/WfdCommon.jar
 lib/com.qualcomm.qti.wifidisplayhal@1.0.so
-lib/libmmrtpdecoder.so
-lib/libmmrtpencoder.so
 lib/libwfdaac.so
 lib/libwfdavenhancements.so
 lib/libwfdclient.so

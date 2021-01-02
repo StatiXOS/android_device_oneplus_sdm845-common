@@ -152,6 +152,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     power.qcom:64
 
+# QTI Components
+TARGET_COMMON_QTI_COMPONENTS := \
+    telephony
+
 # Remove unwanted packages
 PRODUCT_PACKAGES += \
     RemovePackages
