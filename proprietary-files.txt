@@ -67,9 +67,9 @@ framework/com.nxp.nfc.jar|41d92d0b7fdc3d50cd6ea4be8664614aa9d41823
 lib64/libnxpnfc_nci_jni.so
 lib64/libnxpnfc-nci.so|e31ab7b2b282c3b81fd13ab1b40b3cc8d90d8b5b
 
-# Telephony - from LA.UM.9.1.r1-07000-SM8150.0
-system_ext/framework/qti-telephony-common.jar|695214c1294dc9a79ee48387140c9907203300d7
--system_ext/priv-app/ims/ims.apk|d2e1bb9b56805e08f6fb35bee8c1d59035904e27
+# Telephony - from LA.QSSI.11.0.r1-08400-qssi.0.
+system_ext/framework/qti-telephony-common.jar|710406e01836b558c802ba4960fa59f31545389e
+-system_ext/priv-app/ims/ims.apk|29ba29b833e448f49cfa10a11617c41d2fd31fb0
 
 # Telephony
 etc/permissions/privapp-permissions-qti.xml
